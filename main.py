@@ -24,6 +24,5 @@ with open("example_response.json", "w") as response_file:
     
     # For pretty output
     p : str= json.dumps(r, indent=4)
-    
+    print(p[0:100])
     response_file.write(p)
-
