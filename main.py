@@ -26,4 +26,4 @@ with open("example_response.json", "w") as response_file:
     p : str= json.dumps(r, indent=4)
     
     response_file.write(p)
-
+raise Error("Il y a une erreur")
