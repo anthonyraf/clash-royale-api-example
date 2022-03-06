@@ -5,3 +5,5 @@ In order to use the Clash Royale API you must:
 3. Click *Create New Key* 
 4. Fill in the form
 
+# Installation
+
