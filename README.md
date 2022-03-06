@@ -32,4 +32,5 @@ For running this example:
     $ pip install -r requirements.txt
     $ python3 main.py
 
-> Go to : https://developer.clashroyale.com/#/getting-started for more information
+> Click [here](https://github.com/anthonyraf/clash-royale-api-example/blob/main/example_response.json) to see the sample output
+
