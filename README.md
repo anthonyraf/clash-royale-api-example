@@ -4,8 +4,10 @@ The Clash Royale API provides near real time access to game related data. In ord
 All requests must have the API key as a argument:
 ```python
     ...
+    
     api_key = {"Authorization": f"Bearer {token}"}
     request = requests.get("https://api.clashroyale.com/v1" + endpoint, api_key)
+    
     ...
 ```
 ## Instructions <br>
