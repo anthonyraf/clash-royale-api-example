@@ -33,4 +33,3 @@ For running this example:
     $ python3 main.py
 
 > Click [here](https://github.com/anthonyraf/clash-royale-api-example/blob/main/example_response.json) to see the sample output
-
